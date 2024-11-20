@@ -1,0 +1,45 @@
+dependencies:
+  dali_global:
+    component_hash: null
+    source:
+      path: D:\esp_prj\dali_global\dali_global
+      type: local
+    version: 1.0.0
+  espressif/mdns:
+    component_hash: af6306fe65d637a3683d1cf671508fcedd6b05f9ca029a8815abeab64001fb8d
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.4.0
+  home_8574:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\home_8574
+      type: local
+    version: 1.0.0
+  home_i2c:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\home_i2c
+      type: local
+    version: 1.0.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.0
+  iot_button:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\iot_button
+      type: local
+    version: 1.0.0
+  iptool:
+    component_hash: null
+    source:
+      path: D:\esp_prj\global\iptool
+      type: local
+    version: 1.0.0
+manifest_hash: c8f269c5dd7317d3954dc6f37196aad848f813e2468886c3b4aed8fe2a41a8c9
+target: esp32
+version: 1.0.0
